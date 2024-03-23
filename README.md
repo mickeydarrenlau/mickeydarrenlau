@@ -5,7 +5,7 @@
 - 📫 How to reach me ... darren@darrenmc.xyz or darrenwjlau@gmail.com
 
 
-[![image](https://github.com/mickeydarrenlau/mickeydarrenlau/assets/62752664/4f74ed1c-b37e-425d-bfc9-af5171beea6f)](https://github.com/Darren-project/obsidian-spotify/)
+[![image](https://github.com/mickeydarrenlau/mickeydarrenlau/assets/62752664/0feffae0-25c1-4a77-bb73-b0e388eb29b5)](https://github.com/Darren-project/obsidian-spotify/)
 
 <!---
 mickeydarrenlau/mickeydarrenlau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
